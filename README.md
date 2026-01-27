@@ -1,39 +1,70 @@
-Hi there, I'm @Amogh8021 👋
+# Hi, I'm Amogh 👋
 
-🌟 About Me
+🎓 B.Tech CSE student  
+💻 Java Full-Stack Developer (Spring Boot + React)  
+🚀 Actively preparing for internships & entry-level roles  
 
-I'm a Computer Science Engineering (CSE) student currently in my 3rd semester at a Tier 3 college. Passionate about technology and innovation, I'm constantly learning and building to sharpen my skills.
+---
 
-💻 Skills
+## 🧠 What I’m Working On
+- Building **production-style backend systems** with Spring Boot
+- Implementing **JWT authentication & role-based access**
+- Improving **DSA & problem-solving** using Java
+- Strengthening **communication & interview readiness**
 
-Programming Languages: Java, JavaScript, Python (basic)
+---
 
-Frameworks: Spring Boot, React
+## 🛠️ Tech Stack
+**Backend**
+- Java, Spring Boot, Spring Security
+- JPA / Hibernate
+- REST APIs, JWT Authentication
 
-Tools & Technologies: Git, GitHub, REST APIs
+**Frontend**
+- React.js
+- HTML, CSS, JavaScript
 
-🚀 Current Goals
+**Database**
+- MySQL / PostgreSQL
 
-Mastering Spring Boot and React: Dedicating my vacation to deep-dive into these frameworks.
+**Tools**
+- Git & GitHub
+- Docker (basics)
+- Postman
 
-Hackathons: Participating in hackathons to build impactful projects and collaborate with other developers.
+---
 
-🌱 What I'm Learning
+## 📌 Featured Project
 
-Advanced concepts in Spring Boot and React
+📚 Bookstore Management System
 
-Frontend and backend integration for full-stack applications
+A production-style full-stack application with:
 
-Problem-solving through data structures and algorithms
+🔐 Secure authentication & authorization (JWT + role-based access)
 
-📫 Connect with Me
+🛠️ Admin-controlled CRUD APIs for books & users
+
+🛒 Cart, Wishlist & Order management
+
+🔍 Advanced search with pagination & sorting
+
+🧱 Clean, modular backend architecture (Spring Boot + JPA)
+
+📌 Designed to simulate real-world e-commerce backend workflows.
+
+---
+
+## ♟️ Beyond Coding
+- College **Chess Team Captain**
+- Strong interest in strategy & logic building
+
+---
+
+## 📫 Let’s Connect
 
 GitHub: https://github.com/amogh8021
 
 LinkedIn: https://www.linkedin.com/in/amogh-shrivastav-45a6b0346
+---
 
-🌐 Fun Fact
-
-I believe that persistence and creativity can turn ideas into reality, one line of code at a time.
-
-Thanks for visiting my profile! Let's connect and create something amazing together. 🚀
+⭐ Always learning. Always building.
