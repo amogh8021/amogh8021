@@ -1,70 +1,135 @@
-# Hi, I'm Amogh 👋
+# 👋 Hi, I'm Amogh Shrivastav
 
-🎓 B.Tech CSE student  
+🎓 B.Tech Computer Science Engineering (2027)  
 💻 Java Full-Stack Developer (Spring Boot + React)  
-🚀 Actively preparing for internships & entry-level roles  
+🚀 Focused on backend development, scalable APIs, and internship preparation  
+
+---
+
+## ⚡ About Me
+
+I am a Java-focused full-stack developer specializing in backend development using Spring Boot.
+
+I enjoy building:
+- Secure REST APIs using Spring Boot & Spring Security  
+- JWT-based authentication systems with role-based access control  
+- Clean, modular backend architectures  
+- Full-stack applications with real-world workflows  
+
+Currently, I am actively preparing for **backend/full-stack internships** and improving my DSA skills in Java.
 
 ---
 
 ## 🧠 What I’m Working On
-- Building **production-style backend systems** with Spring Boot
-- Implementing **JWT authentication & role-based access**
-- Improving **DSA & problem-solving** using Java
-- Strengthening **communication & interview readiness**
+
+- 🔐 Building authentication systems using JWT + Spring Security  
+- 🏗️ Designing REST APIs with layered architecture  
+- 🛒 Developing full-stack applications (Spring Boot + React)  
+- 🧩 Improving Data Structures & Algorithms in Java  
+- 💬 Strengthening interview communication & problem-solving  
 
 ---
 
 ## 🛠️ Tech Stack
-**Backend**
-- Java, Spring Boot, Spring Security
-- JPA / Hibernate
-- REST APIs, JWT Authentication
 
-**Frontend**
-- React.js
-- HTML, CSS, JavaScript
+### Backend
+Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs, JWT Authentication  
 
-**Database**
-- MySQL / PostgreSQL
+### Frontend
+React.js, JavaScript, HTML, CSS  
 
-**Tools**
-- Git & GitHub
-- Docker (basics)
-- Postman
+### Database
+MySQL, PostgreSQL  
+
+### Tools
+Git, GitHub, Postman, Docker (basic), Render (deployment)
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
-📚 Bookstore Management System
+# 📚 Bookstore Management System (Full Stack Application)
 
-A production-style full-stack application with:
+A full-stack application simulating an e-commerce-style bookstore platform with authentication and backend workflows.
 
-🔐 Secure authentication & authorization (JWT + role-based access)
+---
 
-🛠️ Admin-controlled CRUD APIs for books & users
+## 🔐 Authentication & Security
+- JWT-based authentication system  
+- Role-based access control (USER / ADMIN)  
+- Secure API access using Spring Security  
 
-🛒 Cart, Wishlist & Order management
+---
 
-🔍 Advanced search with pagination & sorting
+## 🧱 Backend Architecture
+- Layered architecture (Controller → Service → Repository)  
+- DTO-based request/response structure  
+- Global exception handling for consistent error responses  
 
-🧱 Clean, modular backend architecture (Spring Boot + JPA)
+---
 
-📌 Designed to simulate real-world e-commerce backend workflows.
+## 🛒 Core Features
+- User registration & login  
+- Book management (CRUD operations)  
+- Cart functionality  
+- Order placement workflow  
+
+---
+
+## 🔍 Additional Features
+- Pagination & sorting for efficient data handling  
+- Search functionality for books  
+- Input validation using Spring Validation  
+
+---
+
+## 🧠 Key Learnings
+- Designing REST APIs in real-world structure  
+- Implementing authentication & authorization flows  
+- Writing clean and maintainable backend code  
+- Understanding system-level backend design basics  
+
+---
+
+## 🧩 Problem Solving
+
+- Practicing Data Structures & Algorithms in Java  
+- Focus areas:
+  - Arrays, Strings  
+  - Stack & Queue  
+  - Recursion & Backtracking  
+  - Trees (basic level)  
 
 ---
 
 ## ♟️ Beyond Coding
-- College **Chess Team Captain**
-- Strong interest in strategy & logic building
+
+- Chess Team Captain ♟️  
+- Strong interest in strategy, logic building, and decision-making  
+- Enjoy structured problem-solving environments  
 
 ---
 
-## 📫 Let’s Connect
+## 📈 GitHub Stats
 
-GitHub: https://github.com/amogh8021
+![Amogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amogh8021&show_icons=true)
 
-LinkedIn: https://www.linkedin.com/in/amogh-shrivastav-45a6b0346
 ---
 
-⭐ Always learning. Always building.
+## 🎯 Career Goals
+
+Actively seeking:
+- Backend Developer Internships  
+- Full-Stack Developer Intern roles  
+- Opportunities to work on real-world production-style systems  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/amogh8021  
+- LinkedIn: https://www.linkedin.com/in/amogh-shrivastav-45a6b0346  
+
+---
+
+⭐ Always learning. Always building. Always improving.
